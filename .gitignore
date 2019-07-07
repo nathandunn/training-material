@@ -11,3 +11,4 @@ decktape-*/
 vendor
 *.swp
 .jekyll-metadata
+.idea
