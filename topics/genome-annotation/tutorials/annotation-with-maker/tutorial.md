@@ -605,4 +605,4 @@ After generating your annotation, you will probably want to automatically assign
 
 An automatic annotation of an eukaryotic genome is rarely perfect. If you inspect some predicted genes, you will probably find some mistakes made by Maker, e.g. wrong exon/intron limits, splitted genes, or merged genes. Setting up a manual curation project using [Apollo](http://genomearchitect.org/) helps a lot to manually fix these errors.
 
-The [Apollo training](../annotation-with-apollo) should provide additional guidance.
+The [Apollo training](../annotation-with-apollo-old) should provide additional guidance.
