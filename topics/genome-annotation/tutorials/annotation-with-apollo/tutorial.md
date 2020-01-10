@@ -21,6 +21,8 @@ key_points:
 - Use Apollo to edit annotations within your group.
 - Export manual annotations as GFF3.
 contributors:
+- abreteaud
+- hexylena
 - nathandunn
 ---
 
