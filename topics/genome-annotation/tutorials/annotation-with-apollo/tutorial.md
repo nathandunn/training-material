@@ -22,7 +22,7 @@ key_points:
 - Export manual annotations as GFF3.
 contributors:
 - abreteaud
-- hexylena
+- erasche
 - nathandunn
 ---
 
